@@ -1,7 +1,6 @@
 # MTM6407 Static Site - Sudip Shrestha
 
-**Name:** Sudip Shrestha  
-**Student Number:** 041142900  
+**Name:** Sudip Shrestha   
 **Static Site Generator:** Nuxt
 
 [Live View](https://cute-chimera-d35ba6.netlify.app/)
@@ -60,4 +59,4 @@ The site is deployed on Netlify and can be accessed at the URL provided in the a
 
 ## Contact
 
-Email: shre0032@algonquinlive.com
+Email: light0x01@gmail.com
